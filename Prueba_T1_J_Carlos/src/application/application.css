@@ -1,0 +1,48 @@
+
+.header{
+	-fx-background-image: url("../../view.assets/sky.jpeg");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
+
+.btnEx{
+	
+	-fx-background-radius: 50;
+	-fx-font-size: 15;
+	-fx-background-color: white;
+}
+
+.footer{
+	-fx-background-color: #F5EE18;
+}
+.labels{
+	-fx-background-color: #F50F24;	
+	-fx-background-radius: 30;
+	-fx-border-style: solid;
+  	-fx-border-color: red;
+  
+}
+.labels:hover{
+	-fx-background-color: #F5EE18 ;
+}
+.imgLogin{
+	-fx-background-radius: 50;
+}
+
+.btnLog{
+	-fx-background-color: #FEAF00;
+}
+
+.btnLog:hover{
+	-fx-background-color: #E3E0DE;
+}
+
+.seccion:hover{
+	-fx-background-color: #F78E1E;	
+}
+
+.fondoUra{
+	-fx-background-image: url("../../view.assets/peli.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
