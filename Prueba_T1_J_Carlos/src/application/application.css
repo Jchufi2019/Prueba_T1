@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author juanc
+ *
+ */
 .header{
 	-fx-background-image: url("../../view.assets/sky.jpeg");
     -fx-background-size: cover;
